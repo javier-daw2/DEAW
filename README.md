@@ -2,6 +2,6 @@
 
 | NOMBRE                  | GITHUB                  |
 |--------------------------|-------------------------|
-| Jorge Díez   | [Enlace a GitHub 1](https://github.com/Jorge2206)  |
-| Nombre del compañero 2   | [Enlace a GitHub 2](#)  |
-| Nombre del compañero 3   | [Enlace a GitHub 3](#)  |
+| Jorge Díez   | [Enlace su perfil](https://github.com/Jorge2206)  |
+| Nombre del compañero 2   | [Enlace su perfil](#)  |
+| Nombre del compañero 3   | [Enlace su perfil](#)  |
